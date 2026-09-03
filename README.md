@@ -25,7 +25,7 @@ Payroll
 
 The project uses primary keys and foreign keys to establish relationships between the tables and SQL queries to perform business-oriented analysis.
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 The main objectives of this project are:
 
@@ -47,7 +47,7 @@ Analyze payroll information
 
 Generate department-wise HR insights using SQL
 
-🗂️ Database Structure
+# 🗂️ Database Structure
 
 1. JobDepartment
 
@@ -157,7 +157,7 @@ report
 
 total_amount
 
-🔗 Database Relationships
+# 🔗 Database Relationships
 
 The project uses foreign-key relationships to connect the tables.
 
@@ -233,7 +233,7 @@ What is the total monthly payroll processed?
 
 What is the average payroll amount after considering leave deductions?
 
-🛠️ Technologies & SQL Concepts
+# 🛠️ Technologies & SQL Concepts
 
 Technology
 
@@ -291,7 +291,7 @@ CASE concepts
 
 Date functions such as YEAR()
 
-📁 Project Structure
+# 📁 Project Structure
 
 Employee-Management-System/
 │
@@ -299,7 +299,7 @@ Employee-Management-System/
 ├── README.md
 ├── ER_Diagram.png
 
-⚙️ How to Run the Project
+# ⚙️ How to Run the Project
 
 Step 1: Install MySQL
 
@@ -354,7 +354,7 @@ SELECT * FROM Qualification;
 SELECT * FROM Leaves;
 SELECT * FROM Payroll;
 
-💡 Key Insights
+# 💡 Key Insights
 
 The SQL analysis provides insights into:
 
@@ -378,7 +378,7 @@ Relationship between employee leave records and payroll
 
 These analyses demonstrate how SQL can be used to convert structured employee records into useful HR and workforce information.
 
-📊 Sample Business Questions
+# 📊 Sample Business Questions
 
 Some of the business questions addressed in this project include:
 
@@ -426,7 +426,7 @@ SQL views for frequently used HR reports
 
 Automated HR reporting
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Vishnu Vardhan
 
@@ -434,12 +434,12 @@ B.Tech – Artificial Intelligence & Data Science
 
 Interested in Data Analytics, Business Intelligence, Data Science, and AI/ML.
 
-🙏 Acknowledgements
+# 🙏 Acknowledgements
 
 Special thanks to Innomatics Research Labs for providing the learning opportunity and practical exposure that supported this project.
 
 Thanks to my Trainer Taruni Thathari and Mentor Vishnu Vardhan Deshmuk for their guidance, feedback, and support throughout the project.
 
-📄 License
+# 📄 License
 
 This project is intended for educational and portfolio purposes.
